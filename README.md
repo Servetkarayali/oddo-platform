@@ -1,0 +1,2 @@
+# oddo-platform
+ODDO Projesi
